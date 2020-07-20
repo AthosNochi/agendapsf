@@ -19,6 +19,7 @@ class CreateAgendamentosTable extends Migration
             $table->integer('id_medico')->unsigned()->nullable();
             $table->string('descricao');
             $table->datetime('datahora');
+            $table->string('legenda', 100);
             $table->timestamps();
             $table->foreign('id_paciente')->references('id')->on('pacientes');
             $table->foreign('id_medico')->references('id')->on('medicos');
