@@ -3774,3 +3774,19 @@ porque o host conectado não respondeu.
 corretamente após um período de tempo ou a conexão estabelecida falhou
 porque o host conectado não respondeu.
  (SQL: select * from information_schema.tables where table_schema = heroku_ad076745aaefaea and table_name = migrations)  
+[2020-07-20 18:36:48] local.ERROR: SQLSTATE[HY000] [2002] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu.
+  
+[2020-07-20 18:36:48] local.ERROR: SQLSTATE[HY000] [2002] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu.
+ (SQL: select * from information_schema.tables where table_schema = heroku_ad076745aaefaea and table_name = migrations)  
+[2020-07-20 18:37:55] local.ERROR: SQLSTATE[HY000] [2002] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu.
+  
+[2020-07-20 18:37:55] local.ERROR: SQLSTATE[HY000] [2002] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu.
+ (SQL: select * from information_schema.tables where table_schema = heroku_ad076745aaefaea and table_name = migrations)  
