@@ -40,7 +40,7 @@
     </div>
 </div>
 
-    <!-- <div class="row">
+     <div class="row">
         <div class="col-md-4 col-md-offset-4">
             <div class="panel panel-primary">
                 <div class="panel-heading">Agenda - Cadastros</div>
@@ -58,13 +58,7 @@
             </div>
         </div>
     </div> -->
-    <div class="container">
-    <div class="row">
-          <div class="col-md-4 col-md-offset-4">
-            <div class="panel-heading">Aproveite os benefícios de um sistema de controle de pacientes</h1>
-          </div>      
-        </div>
-    </div>
+    
 
     <!-- Footer -->
     <footer class="footer bg-light">
