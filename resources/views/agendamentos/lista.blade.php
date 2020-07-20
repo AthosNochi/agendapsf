@@ -33,7 +33,8 @@
                     <a class="btn btn-primary pull-right" href="{{ route('agendamentos.create') }}">Novo</a>
                 </div>
                 <div class="panel-body">
-                    @if(count($agendamentos) > 0)
+                    $pkCount = (is_array($this->agendamentos) ? count($this->agendamentos) : 0);
+                    @if(pkcount == 0)
                     <table id="agendamento_table" class="table table-striped table-hover" cellspacing="0" width="100%">
                         <thead>
                             <tr>
